@@ -1,4 +1,4 @@
-# link_backdoor
+# Motif_Backdoor
 This is a PyThorh implementation of Motif-Backdoor:Rethinking the Backdoor Attack on Graph Neural Networks from Motifs, as described in our paper:
 
 
